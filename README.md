@@ -2,7 +2,7 @@
 
 ![alt text](https://www.daulathussain.com/wp-content/uploads/2026/03/Build-Your-Own-AI-Assistant-with-RAG-That-Runs-100-Locally-Ollama-Next.js-RAG-Tutorial.jpg)
 
-- [Final Source Code]()
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-your-own-ai-assistant-with-rag-that-runs-100percent-locally-or-ollama-+-next.js-+-rag-tutorial-2026)
 
 #### Setup Video
 
